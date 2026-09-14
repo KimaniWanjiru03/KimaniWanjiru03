@@ -14,7 +14,7 @@ I am a data scientist and quantitative researcher with a background spanning
 mathematical sciences, actuarial science, financial engineering, and humanitarian
 programme analytics. My work connects rigorous statistical methods to real decisions
 — from predicting which refugee learner is at risk of dropping out in the next 90 days,
-to identifying hidden market regimes in 30 years of S&P 500 data.
+to identifying hidden market regimes of financial data.
 
 I am equally comfortable building a Cox Proportional Hazards survival model for a
 data-constrained field programme in Kakuma and writing PyTorch deep learning
